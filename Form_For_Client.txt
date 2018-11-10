@@ -1,0 +1,103 @@
+¿Ya tienes un sitio web o es un proyecto desde cero?
+	* Ya tengo un sitio web
+	* Es un proyecto desde cero
+
+¿A quién va dirigida la página?
+¿Cuál es el propósito de la página?
+¿Qué diferencia a tu negocio del resto?
+¿Cómo quieres que se vea tu página Web? da ejemplo
+¿Te gusta el diseño/funcionalidad de alguna página Web?
+¿Qué incluirías de ese diseño en la tuya/qué no incluirías?
+¿Quién estará involucrado en el proyecto? (otros diseñadores, programadores o técnicos de algún tipo.)
+¿Tienes algún presupuesto máximo?
+
+** Si tiene página web 
+¿Quieres trabajar sobre lo que está, o buscas algo totalmente nuevo?
+
+Se requiere
+	* Migración de la página
+	* Cambio de dominio
+	* Cambio de servidor
+
+¿Que quisieras conservar de tu página actual?
+¿Que te disgusta de tu página actual y quieres cambiar/quitar?
+¿Puedes brindar acceso al servidor y al panel de administración?
+¿Estas satisfecho con el funcionamiento de tu página?
+¿Necesitas servicios de optimización para búsquedas?
+¿Necesitas integrar Google Analytics?
+¿Cuáles son los objetivos de la mejora de tu sitio Web?
+¿Tienes algún requerimiento en específico?
+¿Deseas que se haga una evaluación técnica para determinar los recursos del servidor actual, espacio de almacenamiento, etc?
+
+** Si no cuenta con una página web
+
+¿Cuentas con un dominio?
+¿Tu empresa tiene logo?
+¿Tienes pensada una estructura para su sitio?
+¿Tienes el contenido para su sitio?
+¿El contenido debe ser importado desde otro sitio? ¿Desde dónde?
+¿Necesitas entrenamiento para el uso de tu página Web, creación y publicación de contenido, etc.?
+¿Cuentas con galería de imágenes y fotos?
+¿Tu sitio debe incluir algún vídeo?
+¿Deseas que el sitio tenga la funcionalidad de chat?
+¿Cuentas con algún otro formato de contenido que desee incluir en su sitio? (PDF, etc.)
+¿Necesitas que tu sitio soporte distintos idiomas?
+¿Tienes alguna preferencia por CMS (sistemas de gestión de contenidos, como WordPress)?
+¿Necesitas distintos niveles de acceso?
+¿Deseas incluir un blog o un foro?
+¿Los usuarios se registrarán en su página?
+¿Necesitas funcionalidades para compartir contenido en redes sociales?
+¿Necesitas formularios de contacto? ¿Cuántos? ¿Con que fin?
+¿Necesitas integrar alguna aplicación a su sitio Web?
+¿Qué información debe estar siempre visible?
+¿Qué información debe ser enfatizada?
+¿Necesitas un buscador interno?
+¿Ofrecerás publicidad? ¿Qué espacios necesitan ser creados?
+¿Para cuándo necesitas tu sitio terminado?
+
+
+Ejemplo de formulario
+
+¿De que trata su negocio? (Su sitio web)
+________________________________________
+
+¿Tiene en claro como organizar sus productos y/o servicios?
+   si
+   no
+   mas o menos
+
+¿Para qué fecha proximada necesita la entrega de su proyecto web?
+
+dd / mm / YY
+
+¿Que secciones cree que tendría su sutio? (Servicios, clientes, contacto)
+
+__________________________________
+
+¿Que tipo de sitio web necesita?
+     * Estatico ( los cambios deben hacerse por código) -más rápido de desarrollar y más económico-
+     * Dinámico ( los cambios se hacen por una interfaz ) - mas tiempo y mayor costo -
+
+Sobre el diseño de su sitio web
+   * Ya tengo claro el diseño y quiero que se respete al desarrollar el sitio
+   * Tengo algunas ideas sobre el diseño que me gustaría discutir con el experto
+   * No tengo idea del diseño. Lo dejo en sus manos
+
+¿Que elementos de imagen corporativa ya posee?
+ 
+	* logotipo		* Tarjeta de presentación
+	* eslogan		* Papelería (hojas membretadas, afiches, sobres)
+	* paleta de colores	* Fotografías de su equipo de trabajo
+	* tipografía		* Ninguno de los anteriores
+
+
+Servicios o características adicionales
+	¿Hay alguna característica en particular que desea en su sitio
+	web que quiera resaltar?
+
+	* Hosting (alojamiento anual)
+	* Dominio (miempresa.com - se registra anual)
+	* Fotografía
+	* Diseño de logotipo
+	* Diseño de imágen corporativa
+	* Ninguno de los anteriores
